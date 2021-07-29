@@ -7,5 +7,5 @@ Get the current ip set by the internet provider
 |Name| MyIpAddress |
 |----|--|
 |Version|1.0.0|
-|Build|b924571|
+|Build|b212907|
 |Developer|Kyaz0x1|
