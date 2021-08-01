@@ -1,5 +1,5 @@
 # MyIpAddress
-Get the current ip set by the internet provider
+Get the current ip set by the internet provide
 ### Demo
 <img src="img/MyIpAddress.png" />
 
